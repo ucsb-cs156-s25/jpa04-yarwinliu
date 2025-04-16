@@ -1,15 +1,6 @@
-# STARTER-jpa04
+# jpa04-yarwinliu
 
-```
-TODO: Change link below from the example running app to your own running app
-For example, you might change it to:
-
-Running at: <https://jpa04-cgaucho.dokku-13.cs.ucsb.edu>
-
-Then remove this TODO item.
-```
-
-Running at: <https://starter-jpa04.dokku-00.cs.ucsb.edu>
+Running at: <https://jpa04-yarwinliu.dokku-06.cs.ucsb.edu/>
 
 ## Thanks
 
